@@ -1,0 +1,28 @@
+# Gemini / Google AI China Guide by ChongGrok
+
+> Independent membership subscription and troubleshooting knowledge base for users of their own Google accounts. ChongGrok is not affiliated with Google.
+
+## Main pages
+
+- Main guide: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/
+- Topic index: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/
+- English summary: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/en/
+- Cross-product safety checklist: https://he20000405-pixel.github.io/resources/ai-membership-safety-checklist/
+
+## Core guides
+
+- Own-account upgrade and verification: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-own-account-upgrade/
+- Google AI plan selection: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/google-ai-plans/
+- Payment errors: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-payment-errors/
+- Paid but entitlement not active: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-paid-but-not-active/
+- Renewal failed or downgraded: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-renewal-failed/
+- Google One, web and Google Play billing: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-billing-channel/
+- Account safety and evidence checklist: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-account-safety/
+
+## Scope
+
+- Membership subscription assistance for users' own accounts only.
+- No fixed credential is claimed; required information is confirmed case by case.
+- Passwords, two-factor codes and recovery codes are not requested.
+- No API credits, ready-made accounts, SMS verification or bulk registration.
+- Plans, prices, features and availability follow Google's live official pages.

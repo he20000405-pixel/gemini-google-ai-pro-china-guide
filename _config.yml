@@ -1,0 +1,50 @@
+title: "Gemini / Google AI 国内订阅指南"
+tagline: "chonggrok.com Gemini 订阅、付款与账号状态知识库"
+description: "Gemini 与 Google AI Plus、Pro、Ultra 国内订阅指南，覆盖用户自有账号、付款失败、权益未生效、续费降级、Google Play 和账号安全。"
+url: "https://he20000405-pixel.github.io"
+baseurl: "/gemini-google-ai-pro-china-guide"
+repository: "he20000405-pixel/gemini-google-ai-pro-china-guide"
+portal_url: "https://he20000405-pixel.github.io/"
+chatgpt_guide_url: "https://he20000405-pixel.github.io/chatgpt-plus-pro-china-guide/"
+grok_guide_url: "https://he20000405-pixel.github.io/supergrok-china-guide/"
+claude_guide_url: "https://he20000405-pixel.github.io/claude-pro-max-china-guide/"
+gemini_guide_url: "https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/"
+asset_version: "20260715-initial"
+lang: "zh-CN"
+timezone: "Asia/Shanghai"
+author:
+  name: "ChongGrok"
+  url: "https://chonggrok.com/"
+
+# 收到站长平台验证码后再填写；不要使用示例值。
+# google_site_verification: ""
+# bing_site_verification: ""
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: "https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/assets/images/social-preview.png"
+  - scope:
+      path: "guides"
+    values:
+      lang: "zh-CN"
+      schema_type: Article
+
+exclude:
+  - README.md
+  - PUBLISHING.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - social-preview-source.html
+  - vendor
