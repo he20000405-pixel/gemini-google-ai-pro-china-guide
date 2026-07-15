@@ -62,6 +62,8 @@ faq:
 
 只有确认原订单未成功、没有有效订阅或待处理交易，并准备使用自己的 Google 账号升级时，才适合进一步咨询 ChongGrok。资料由客服逐单确认，不索要密码、验证码或恢复码，也不保证所有账号都符合资格。
 
+需要在银行、Google Payments、Google Play、Google One 和产品权益之间判断问题位置时，可使用[跨产品 AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)。
+
 ## 官方来源
 
 - [Google Payments：解决付款被拒](https://support.google.com/paymentscenter/answer/9034675)

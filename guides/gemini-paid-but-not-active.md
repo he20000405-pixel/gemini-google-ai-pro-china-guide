@@ -74,6 +74,8 @@ Google 生态中可能同时登录多个账号。逐项核对：
 
 准备订单号、准确付款时间、购买入口、脱敏账号、银行交易状态、Google One 计划页、Gemini 当前账号和完整错误提示。公开求助时必须遮挡敏感信息。
 
+如果仍无法判断是账单、订阅还是 Gemini 账号权益问题，可继续使用[跨产品 AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)。
+
 ## 官方来源
 
 - [Google Play：应用内购买未显示](https://support.google.com/googleplay/answer/1050566)
