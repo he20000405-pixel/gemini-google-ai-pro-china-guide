@@ -1,5 +1,5 @@
 ---
-title: "2026 Gemini / Google AI 国内订阅指南：自有账号、付款失败与权益排查"
+title: "Gemini / Google AI 订阅与付款排查"
 description: "Google AI Plus、Pro、Ultra 套餐选择，用户自有账号订阅、Google Play 与网页账单、付款失败、权益未生效和续费降级排查。"
 permalink: /
 last_modified_at: 2026-07-15

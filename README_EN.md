@@ -2,6 +2,7 @@
 title: "Gemini and Google AI Membership Guide"
 description: "Independent guide to Google AI plans, own-account subscription checks, payment errors, missing entitlements, renewals and Google Play billing."
 permalink: /en/
+robots: "index, follow"
 lang: en
 last_modified_at: 2026-07-15
 ---
