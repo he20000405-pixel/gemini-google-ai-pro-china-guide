@@ -2,12 +2,12 @@
 title: "Gemini / Google AI 订阅与付款排查"
 description: "Google AI Plus、Pro、Ultra 套餐选择，用户自有账号订阅、Google Play 与网页账单、付款失败、权益未生效和续费降级排查。"
 permalink: /
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-24
 faq:
   - question: "Gemini 会员现在只有 Google AI Pro 吗？"
     answer: "不是。Google 当前帮助中心还列出 Google AI Plus 与 Google AI Ultra。不同地区可见套餐、价格和权益可能不同，应以 Google One 或 Gemini 实时订阅页面为准。"
   - question: "ChongGrok 的 Gemini 协助需要 Google 密码吗？"
-    answer: "不需要。公开业务只面向用户自有账号，具体所需资料由客服逐单确认，不索要 Google 密码、两步验证码或恢复码。"
+    answer: "用户自有 Google 账号升级不需要提交密码、两步验证码或恢复码，具体资料由客服逐单确认。Google AI Pro 一年成品账号属于独立交付路径，交付方式与安全信息修改以主站实时页面和购买前说明为准。"
   - question: "已经扣款但 Gemini 权益没出现，可以再买一次吗？"
     answer: "不建议。应先确认交易是否完成、原购买账号、Google One 或 Google Play 订阅状态，以及当前 Gemini 登录账号。"
 ---
@@ -15,9 +15,9 @@ faq:
 <p class="meta">ChongGrok 独立指南 · Google AI membership troubleshooting</p>
 # Gemini / Google AI 国内订阅与排障指南
 
-<p class="lead">面向使用自己 Google 账号的用户，按“套餐与资格 → 购买入口 → 付款状态 → 官方权益验收”的顺序排查。不要把 Google AI 计划、Gemini 模型名称和 Google AI credits 混为一类。</p>
+<p class="lead">本指南区分用户自有 Google 账号升级与 Gemini 专属成品账号方案，并按“套餐与资格 → 购买入口 → 付款状态 → 官方权益验收”的顺序排查。不要把 Google AI 计划、Gemini 模型名称和 Google AI credits 混为一类。</p>
 
-<div class="notice"><strong>当前公开边界：</strong>只讨论用户自有账号的会员订阅。所需资料由客服按当前履约方式逐单确认，不声明固定凭证，不索要密码、两步验证码或恢复码。</div>
+<div class="notice"><strong>当前服务边界：</strong>用户自有 Google 账号升级由客服逐单确认资料，不索要密码、两步验证码或恢复码；Google AI Pro 一年成品账号及其他 Gemini 账号方案属于 Gemini 专属业务，具体计划、周期、库存、交付方式和账号安全设置以主站实时页面与购买前说明为准。两种服务路径不能混为同一种升级方式。</div>
 
 ## 先说结论
 
@@ -49,6 +49,6 @@ faq:
 
 ChongGrok 与 Google 不存在隶属、授权或官方合作关系。套餐、价格、权益、模型、额度和地区可用性以 Google 实时页面为准。任何线上订阅协助都不能承诺绝对安全、固定到账或所有账号均可开通。
 
-> 主站 Gemini 页面完成“仅用户自有账号”文案修正前，本知识库不设置直接购买按钮。
+> 主站当前提供 Gemini 用户自有账号升级、Google AI Pro 一年成品账号及其他 Gemini 方案。价格、周期、库存和交付规则可能调整，请查看 [ChongGrok Gemini 当前方案](https://chonggrok.com/gemini)。
 
-<p class="meta">最后更新：2026-07-15</p>
+<p class="meta">最后更新：2026-07-24</p>
