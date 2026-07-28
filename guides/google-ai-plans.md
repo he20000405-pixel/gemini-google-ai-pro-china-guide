@@ -1,9 +1,9 @@
 ---
-title: "Google AI Plus、Pro、Ultra 怎么选？套餐、Gemini 模型与 AI credits 边界"
+title: "Google AI Plus、Pro、Ultra 怎么选"
 description: "按存储、Gemini 使用强度、NotebookLM、Flow 和开发工具需求判断 Google AI Plus、Pro、Ultra，并区分会员与 AI credits。"
 permalink: /guides/google-ai-plans/
 date_published: 2026-07-15
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -63,7 +63,7 @@ Google 当前帮助中心列出了 Google AI Plus、Google AI Pro 和 Google AI 
 
 ## ChongGrok 边界
 
-ChongGrok 只讨论会员订阅协助，不提供 Google AI credits 或 API 额度。用户自有账号的目标计划与所需资料由客服逐单确认，不保证所有账号看到相同计划。
+ChongGrok 只讨论会员订阅与 Gemini 账号方案，不提供 Google AI credits 或 API 额度。用户自有账号升级所需资料由客服逐单确认；Gemini 专属一年成品账号属于独立交付路径，不保证所有账号、地区或商品方案具有相同权益。
 
 ## 官方来源
 
@@ -71,4 +71,4 @@ ChongGrok 只讨论会员订阅协助，不提供 Google AI credits 或 API 额�
 - [Google One：Google AI Pro 会员](https://support.google.com/googleone/answer/16476811)
 - [Google One：Google AI Ultra 权益](https://support.google.com/googleone/answer/16286513)
 
-**下一步：**[自有账号升级与验收](../gemini-own-account-upgrade/) · [购买入口判断](../gemini-billing-channel/)
+**下一步：**[自有账号升级与验收](../gemini-own-account-upgrade/) · [购买入口判断](../gemini-billing-channel/) · [主站 Gemini 当前方案](https://chonggrok.com/gemini)

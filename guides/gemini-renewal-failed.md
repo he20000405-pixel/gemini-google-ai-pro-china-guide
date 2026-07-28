@@ -1,8 +1,8 @@
 ---
-title: "Gemini / Google AI 续费失败或订阅降级：付款方式、原账号与到期状态排查"
+title: "Gemini 续费失败或降级：付款方式与原账号排查"
 description: "区分 Google AI 续费失败、主动取消、付款待处理和订阅到期，并按原购买账号与账单入口排查权益降级。"
 permalink: /guides/gemini-renewal-failed/
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -78,3 +78,5 @@ Google 官方说明，订阅付款问题可能导致订阅被取消。实际处�
 ## 风险边界
 
 ChongGrok 与 Google 无隶属、授权或官方合作关系。计划名称、付款状态、续费规则和地区可用性以 Google 实时页面为准；本文不承诺固定恢复时间或所有订阅均可恢复。
+
+确认原续费没有成功、当前不存在有效或待处理订阅后，再查看 [ChongGrok Gemini 当前方案](https://chonggrok.com/gemini)。不要用新订单掩盖尚未查清的续费状态。

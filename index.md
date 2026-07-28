@@ -1,8 +1,8 @@
 ---
 title: "Gemini / Google AI 订阅与付款排查"
-description: "Google AI Plus、Pro、Ultra 套餐选择，用户自有账号订阅、Google Play 与网页账单、付款失败、权益未生效和续费降级排查。"
+description: "Gemini 自有账号升级、专属一年成品账号、Google AI 套餐、Google Play、付款失败、权益未生效和续费排查。"
 permalink: /
-last_modified_at: 2026-07-24
+last_modified_at: 2026-07-28
 faq:
   - question: "Gemini 会员现在只有 Google AI Pro 吗？"
     answer: "不是。Google 当前帮助中心还列出 Google AI Plus 与 Google AI Ultra。不同地区可见套餐、价格和权益可能不同，应以 Google One 或 Gemini 实时订阅页面为准。"

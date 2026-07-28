@@ -1,8 +1,8 @@
 ---
-title: "Gemini / Google AI 订阅、付款与账号状态专题"
-description: "Google AI 套餐、自有账号升级、付款失败、权益未生效、续费降级、Google Play 账单与账号安全专题目录。"
+title: "Gemini 订阅、付款与账号专题"
+description: "Gemini 自有账号升级、专属一年成品账号、Google AI 套餐、付款、权益和账号安全专题目录。"
 permalink: /guides/
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -12,7 +12,9 @@ breadcrumbs:
 
 # Gemini / Google AI 专题目录
 
-<p class="lead">先判断购买前、付款中还是付款后问题，再进入对应专题。Google AI 套餐、Gemini 模型和 Google AI credits 不是同一概念。</p>
+<p class="lead">先区分用户自有账号升级与 Gemini 专属一年成品账号，再判断购买前、付款中还是付款后问题。Google AI 套餐、Gemini 模型和 Google AI credits 不是同一概念。</p>
+
+> 自有账号升级所需资料由客服逐单确认；一年成品账号是 Gemini 专属的独立交付路径。当前套餐、周期、库存和交付规则请查看 [ChongGrok Gemini 当前方案](https://chonggrok.com/gemini)。
 
 ## 购买前
 

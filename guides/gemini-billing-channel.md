@@ -1,8 +1,8 @@
 ---
-title: "Gemini 订阅由谁管理？Google One 网页、Google Play 与账号对应关系"
+title: "Gemini 订阅入口：Google One、Google Play 与账号"
 description: "判断 Gemini / Google AI 计划的原购买入口和管理渠道，避免在 Google One 网页与 Google Play 之间重复订阅。"
 permalink: /guides/gemini-billing-channel/
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -71,3 +71,5 @@ faq:
 ## 第三方声明
 
 ChongGrok 与 Google 无隶属、授权或官方合作关系。订阅管理入口、资格和功能以 Google 账号内实时显示为准。
+
+确认不存在有效订阅或待处理交易后，如需了解自有账号升级或 Gemini 专属一年成品账号，可查看 [ChongGrok Gemini 当前方案](https://chonggrok.com/gemini)。

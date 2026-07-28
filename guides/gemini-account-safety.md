@@ -1,8 +1,8 @@
 ---
-title: "Gemini 账号资料安全与订阅验收清单：最小资料、脱敏截图和售后证据"
-description: "面向 Gemini / Google AI 用户自有账号的安全清单，说明不应提交的信息、付款后验收和联系售后所需证据。"
+title: "Gemini 账号安全与订阅验收清单"
+description: "区分 Gemini 自有账号升级与专属一年成品账号，说明最小资料、脱敏截图、官方验收和售后证据。"
 permalink: /guides/gemini-account-safety/
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -12,7 +12,7 @@ breadcrumbs:
     url: /guides/gemini-account-safety/
 faq:
   - question: "Gemini 订阅协助需要 Google 密码吗？"
-    answer: "不需要。ChongGrok 的公开 Gemini 业务只面向用户自有账号，具体资料由客服逐单确认，但不应提交 Google 密码、两步验证码或恢复码。"
+    answer: "用户自有账号升级不需要提交 Google 密码、两步验证码或恢复码。Gemini 专属一年成品账号属于独立交付路径，应按购买前说明完成账号接收和安全信息修改。"
   - question: "订单截图可以直接公开吗？"
     answer: "不建议。应遮盖完整邮箱、订单号、银行卡信息、付款资料和其他可用于识别或访问账号的信息，仅保留解决问题所需字段。"
   - question: "完成付款后应该验收什么？"
@@ -21,7 +21,16 @@ faq:
 
 # Gemini 账号资料安全与订阅验收清单
 
-<p class="lead">本知识库只讨论用户自己的 Google 账号。资料遵循“只提供解决当前问题所必需的信息”，完成后必须回 Google 官方页面验收。</p>
+<p class="lead">本页重点说明用户自有 Google 账号的最小资料原则，并补充 Gemini 专属一年成品账号的交付安全边界。两条路径都应在完成后回 Google 官方页面验收。</p>
+
+## 先确认是哪条路径
+
+| 服务路径 | 账号归属 | 安全重点 |
+| --- | --- | --- |
+| 用户自有账号升级 | 用户原有 Google 账号 | 不提交密码、两步验证码或恢复码，只提供当前问题所需的最小资料 |
+| Gemini 专属一年成品账号 | 按独立商品规则交付 | 下单前确认周期、交付方式、账号归属、可修改的安全信息和售后边界 |
+
+当前库存、周期和交付规则以[主站 Gemini 方案](https://chonggrok.com/gemini)及购买前说明为准。
 
 ## 永远不要提交
 

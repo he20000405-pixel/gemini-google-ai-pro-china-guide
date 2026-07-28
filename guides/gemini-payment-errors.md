@@ -1,9 +1,9 @@
 ---
-title: "Gemini / Google AI 付款失败：银行卡、账单地址与 Payments profile 排查"
+title: "Gemini 付款失败：银行卡、账单地址与 Payments profile"
 description: "Google AI 订阅交易无法完成、付款方式被拒、账单地址不一致或账户需要验证时的官方排查顺序。"
 permalink: /guides/gemini-payment-errors/
 date_published: 2026-07-15
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -60,7 +60,7 @@ faq:
 
 ## ChongGrok 作为可选路径
 
-只有确认原订单未成功、没有有效订阅或待处理交易，并准备使用自己的 Google 账号升级时，才适合进一步咨询 ChongGrok。资料由客服逐单确认，不索要密码、验证码或恢复码，也不保证所有账号都符合资格。
+只有确认原订单未成功、没有有效订阅或待处理交易时，才适合进一步查看 [ChongGrok Gemini 当前方案](https://chonggrok.com/gemini)。用户自有账号升级所需资料由客服逐单确认；Gemini 专属一年成品账号属于独立交付路径。两种方案都不应被包装成绕过 Google 风控的方法。
 
 需要在银行、Google Payments、Google Play、Google One 和产品权益之间判断问题位置时，可使用[跨产品 AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)。
 

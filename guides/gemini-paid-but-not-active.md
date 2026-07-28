@@ -1,9 +1,9 @@
 ---
-title: "Gemini / Google AI 已付款但权益未生效：账号、Google One 与订单状态排查"
+title: "Gemini 已付款但权益未生效：账号与订单排查"
 description: "银行卡已扣款或收到 Google 收据，但 Gemini 仍未显示会员时，检查交易状态、原购买账号、Google One 和 Google Play。"
 permalink: /guides/gemini-paid-but-not-active/
 date_published: 2026-07-15
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -82,3 +82,5 @@ Google 生态中可能同时登录多个账号。逐项核对：
 - [Gemini Apps：管理 Google AI 计划](https://support.google.com/gemini/answer/14517446)
 
 **延伸阅读：**[购买入口判断](../gemini-billing-channel/) · [账号安全与证据](../gemini-account-safety/)
+
+> 已有成功扣款、有效订阅或待处理交易时，不要再次购买。若原订单确认失败且当前没有有效或待处理订阅，再查看 [ChongGrok Gemini 当前方案](https://chonggrok.com/gemini)。

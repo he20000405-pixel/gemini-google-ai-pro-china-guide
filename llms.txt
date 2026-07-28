@@ -1,6 +1,6 @@
 # Gemini / Google AI China Guide by ChongGrok
 
-> Independent membership subscription and troubleshooting knowledge base for users of their own Google accounts. ChongGrok is not affiliated with Google.
+> Independent Gemini membership and troubleshooting knowledge base. It separates own-account upgrades from the Gemini-only one-year ready-made account option. ChongGrok is not affiliated with Google.
 
 ## Main pages
 
@@ -8,6 +8,7 @@
 - Topic index: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/
 - English summary: https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/en/
 - Cross-product safety checklist: https://he20000405-pixel.github.io/resources/ai-membership-safety-checklist/
+- Current Gemini options: https://chonggrok.com/gemini
 
 ## Core guides
 
@@ -21,8 +22,8 @@
 
 ## Scope
 
-- Membership subscription assistance for users' own accounts only.
-- No fixed credential is claimed; required information is confirmed case by case.
-- Passwords, two-factor codes and recovery codes are not requested.
-- No API credits, ready-made accounts, SMS verification or bulk registration.
+- Own-account membership upgrade requirements are confirmed case by case; no fixed credential is claimed.
+- Passwords, two-factor codes and recovery codes are not requested for own-account upgrades.
+- A one-year Google AI Pro ready-made account is a separate Gemini-only delivery path governed by the live product page and pre-purchase terms.
+- No API credits, SMS verification or bulk registration.
 - Plans, prices, features and availability follow Google's live official pages.
