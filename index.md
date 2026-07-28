@@ -51,4 +51,4 @@ ChongGrok 与 Google 不存在隶属、授权或官方合作关系。套餐、�
 
 > 主站当前提供 Gemini 用户自有账号升级、Google AI Pro 一年成品账号及其他 Gemini 方案。价格、周期、库存和交付规则可能调整，请查看 [ChongGrok Gemini 当前方案](https://chonggrok.com/gemini)。
 
-<p class="meta">最后更新：2026-07-24</p>
+<p class="meta">最后更新：2026-07-28</p>
