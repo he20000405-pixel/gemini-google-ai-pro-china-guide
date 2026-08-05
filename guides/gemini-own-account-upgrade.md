@@ -3,7 +3,7 @@ title: "Gemini 用户自有账号升级：客服确认、付款前检查与官�
 description: "使用自己的 Google 账号升级 Google AI 计划时，如何检查资格、已有订阅、客服所需资料和完成后的官方权益。"
 permalink: /guides/gemini-own-account-upgrade/
 date_published: 2026-07-15
-last_modified_at: 2026-07-28
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -51,6 +51,8 @@ ChongGrok 当前不公开固定的 Gemini 凭证格式。客服会按当时的�
 - 不以“官方合作”或“所有账号都能开通”作为承诺；
 - 本专题的自有账号流程不交付成品账号；Gemini 专属一年成品账号按独立商品规则处理。
 
+客服给出资料入口后，先核对页面域名、目标账号和字段名称。若入口与客服说明不一致，或页面要求密码、验证码、恢复码、Cookie 或完整登录会话，请立即停止，不要用其他敏感数据代替。
+
 ## 完成后怎么验收
 
 1. 使用原 Google 账号登录 [Gemini](https://gemini.google.com/)。
@@ -58,6 +60,8 @@ ChongGrok 当前不公开固定的 Gemini 凭证格式。客服会按当时的�
 3. 在 Google One 检查计划名称、账单管理方和下一付款日期。
 4. 如果通过 Google Play 管理，再用原 Play 账号检查订阅状态。
 5. 保存订单号、付款时间和脱敏后的官方计划页面。
+
+每一步都应有明确结果：Gemini 头像对应原账号，Google One 显示目标计划，账单管理方和下一付款日期能够核对。任何一项不一致，都应先回到原订单和原购买入口排查，不要再下一单。
 
 不要把 Google AI Plus、Pro、Ultra 的套餐名称与 Gemini 中的模型名称混为一谈。模型、额度和功能可能更新，计划是否生效以账号内官方展示为准。
 
@@ -72,6 +76,13 @@ ChongGrok 当前不公开固定的 Gemini 凭证格式。客服会按当时的�
 ## 风险说明
 
 ChongGrok 是独立第三方订阅协助服务，与 Google 无隶属或官方合作关系。任何线上服务都不是零风险；付款前应以客服当前确认和 Google 官方实时页面为准。
+
+## 完成标准
+
+- 原 Google 账号仍可正常登录，且没有提交密码、验证码或恢复码；
+- Google One 或 Gemini 官方页面显示目标计划；
+- 订单号、付款时间、账单入口和目标账号能够对应；
+- 若权益未出现，已停止重复购买并转入“已付款但权益未生效”排查。
 
 **延伸阅读：**[套餐选择](../google-ai-plans/) · [购买入口判断](../gemini-billing-channel/) · [账号安全清单](../gemini-account-safety/) · [主站 Gemini 当前方案](https://chonggrok.com/gemini)
 

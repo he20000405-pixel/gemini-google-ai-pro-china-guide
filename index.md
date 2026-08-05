@@ -23,7 +23,7 @@ faq:
 
 - Google 当前公开 Google AI Plus、Pro、Ultra 多档计划；不同地区显示可能不同。
 - Gemini 的订阅管理通常会进入 Google One；通过 Google Play 购买时，原 Google Play 账号也必须核对。
-- 银行预授权、Google 收据和 Gemini 已识别会员权益是三个不同状态。
+- 银行仍在处理付款、Google 已经提供收据，以及当前 Gemini 账号已经显示会员，是三个不同状态。
 - 已有成功扣款或待处理订单时，不要为了“刷新权益”重复购买。
 
 ## 7 个核心专题
@@ -32,7 +32,7 @@ faq:
   <section class="guide-card"><h3><a href="guides/gemini-own-account-upgrade/">自有账号升级与验收</a></h3><p>付款前确认账号、已有订阅和客服所需资料，完成后回 Google 官方页面验收。</p></section>
   <section class="guide-card"><h3><a href="guides/google-ai-plans/">Google AI 套餐怎么选</a></h3><p>区分 Plus、Pro、Ultra，并解释套餐、模型与 AI credits 的边界。</p></section>
   <section class="guide-card"><h3><a href="guides/gemini-payment-errors/">银行卡与付款失败</a></h3><p>检查付款资料、账单地址、Payments profile、身份验证和银行拒付。</p></section>
-  <section class="guide-card"><h3><a href="guides/gemini-paid-but-not-active/">已付款但权益未生效</a></h3><p>区分预授权、已完成订单、Google One 状态和当前 Gemini 登录账号。</p></section>
+  <section class="guide-card"><h3><a href="guides/gemini-paid-but-not-active/">已付款但权益未生效</a></h3><p>区分银行仍在处理、已完成订单、Google One 状态和当前 Gemini 登录账号。</p></section>
   <section class="guide-card"><h3><a href="guides/gemini-renewal-failed/">续费失败或降级</a></h3><p>检查原账单入口、付款方式、订阅是否被取消和到期后的权益变化。</p></section>
   <section class="guide-card"><h3><a href="guides/gemini-billing-channel/">网页、Google One 与 Google Play</a></h3><p>先判断谁管理账单，再决定从哪里取消、更新付款方式或联系支持。</p></section>
   <section class="guide-card"><h3><a href="guides/gemini-account-safety/">账号安全与售后证据</a></h3><p>最小资料原则、脱敏截图、订单记录和正确的支持对象。</p></section>

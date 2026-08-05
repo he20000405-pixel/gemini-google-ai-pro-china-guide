@@ -2,7 +2,7 @@
 title: "Gemini 续费失败或降级：付款方式与原账号排查"
 description: "区分 Google AI 续费失败、主动取消、付款待处理和订阅到期，并按原购买账号与账单入口排查权益降级。"
 permalink: /guides/gemini-renewal-failed/
-last_modified_at: 2026-07-28
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -44,6 +44,8 @@ Google AI 计划可能由 Google One 网页或 Google Play 管理。续费失败
 3. 在 Google Payments Center 核对付款方式、账单资料和需要完成的验证。
 4. 若银行拒绝交易，联系发卡行确认限制，而不是连续更换入口付款。
 
+完成这组检查后，Google One 应明确显示“计划仍有效”“计划将在某日结束”或“需要更新付款方式”中的一种状态。若页面没有明确结果，保存页面提示并联系 Google One 支持，不要改去 Google Play 重新购买。
+
 ## Google Play 续费失败
 
 Google Play 订阅必须用原购买 Play 账号管理。检查：
@@ -54,6 +56,8 @@ Google Play 订阅必须用原购买 Play 账号管理。检查：
 - Gemini 当前登录的 Google 账号是否与购买账号一致。
 
 Google 官方说明，订阅付款问题可能导致订阅被取消。实际处理结果以 Google Play 订单和订阅页为准。
+
+完成后，Play 订阅页应能显示有效、已取消或付款失败中的一种最终状态。若订单仍显示处理中，先等待原渠道完成处理。
 
 ## 已扣款但变回普通权益
 
@@ -68,6 +72,13 @@ Google 官方说明，订阅付款问题可能导致订阅被取消。实际处�
 如果订单来自 ChongGrok，请保留订单号、付款记录、客服沟通和目标账号信息，联系原售后核对处理记录。不要提交 Google 密码、两步验证码或恢复码，也不要为了“刷新状态”再次下单。
 
 跨 Google One、Google Play 和网页判断续费状态时，可按[AI 订阅付款排障决策树](https://he20000405-pixel.github.io/resources/ai-subscription-payment-troubleshooting/)先核对原购买入口、交易状态和账号权益。
+
+## 完成标准
+
+- 已找到原购买账号和原账单入口；
+- 已区分付款失败、主动取消、计划到期和登录错账号；
+- 续费成功时，Google One 与 Gemini 显示同一有效计划；
+- 续费未成功时，当前不存在另一份有效或仍在处理的订单，再决定是否重新订阅。
 
 ## 官方资料
 

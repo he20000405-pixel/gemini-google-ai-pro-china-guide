@@ -3,7 +3,7 @@ title: "Google AI Plus、Pro、Ultra 怎么选"
 description: "按存储、Gemini 使用强度、NotebookLM、Flow 和开发工具需求判断 Google AI Plus、Pro、Ultra，并区分会员与 AI credits。"
 permalink: /guides/google-ai-plans/
 date_published: 2026-07-15
-last_modified_at: 2026-07-28
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -21,6 +21,10 @@ faq:
 # Google AI Plus、Pro、Ultra 怎么选
 
 Google 当前帮助中心列出了 Google AI Plus、Google AI Pro 和 Google AI Ultra。各地区可能只显示部分计划，存储容量、价格、功能和额度也会调整，因此本页不写死人民币价格或保证某项实验功能长期存在。
+
+## 先给结论
+
+先用当前账号打开 Gemini 或 Google One 的订阅页面，只比较页面实际提供的计划。若免费版尚未影响工作，不需要为了套餐名称升级；只有明确遇到额度、存储或功能限制时，再选择能解决该限制的最低档计划。
 
 ## 先区分三个概念
 
@@ -52,6 +56,16 @@ Google 当前帮助中心列出了 Google AI Plus、Google AI Pro 和 Google AI 
 | 日常研究、Google 文档协作、NotebookLM 和中等强度 Gemini | 查看账号中 Plus 或 Pro 的实时权益 |
 | 高频 Deep Research、创作工具、复杂项目和较高额度 | 重点比较 Pro 与 Ultra |
 | 只需要开发者 API | 使用官方开发者计费体系；不要购买消费者会员来替代 API |
+
+## 按这个顺序完成选择
+
+1. **打开当前账号的订阅页面。**在 Gemini 中进入设置与帮助，再打开订阅管理；也可以在 Google One 查看可用计划。
+2. **写下实际限制。**例如“NotebookLM 用量不足”或“需要更高的 Deep Research 额度”，不要只写“想要更强”。
+3. **逐项比较页面权益。**只比较与你的限制有关的功能、存储和额度，不把模型名称当作套餐名称。
+4. **检查资格和账单。**确认账号类型、地区、年龄、现有 Google One 计划和购买入口。
+5. **到这里先停止。**如果页面没有目标计划、已有订单仍在处理，或你无法确定现有订阅由谁管理，不要付款；先处理账号或账单问题。
+
+完成选择后，你应该能用一句话说明：“我当前遇到什么限制，哪个计划的哪项权益能够解决它。”如果不能说明，先不升级。
 
 ## 选择前必须看
 

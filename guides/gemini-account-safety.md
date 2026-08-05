@@ -2,7 +2,7 @@
 title: "Gemini 账号安全与订阅验收清单"
 description: "区分 Gemini 自有账号升级与专属一年成品账号，说明最小资料、脱敏截图、官方验收和售后证据。"
 permalink: /guides/gemini-account-safety/
-last_modified_at: 2026-07-28
+last_modified_at: 2026-08-05
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -50,6 +50,8 @@ faq:
 - 当前登录账号的可辨识部分；
 - Google One 或 Google Play 订阅状态截图。
 
+提供前先问清楚“这项资料用来核对什么”。如果对方不能说明用途，或要求的资料明显超过订单核对所需范围，应停止提交并改用官方支持或原售后渠道确认。
+
 ## 截图脱敏清单
 
 截图前遮盖：
@@ -68,6 +70,8 @@ faq:
 3. 检查计划名称、结算周期和权益是否一致；
 4. 保存订单和付款记录；
 5. 若权益未出现，停止重复购买并进入[已付款但权益未生效排查](../gemini-paid-but-not-active/)。
+
+验收完成的标准不是“客服说处理好了”，而是当前账号能在 Google 官方页面看到正确计划，订单记录也能与该账号对应。
 
 ## 联系谁
 
