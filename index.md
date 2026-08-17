@@ -2,10 +2,10 @@
 title: "Gemini / Google AI 订阅与付款排查"
 description: "Gemini 自有账号升级、专属一年成品账号、Google AI 套餐、Google Play、付款失败、权益未生效和续费排查。"
 permalink: /
-last_modified_at: 2026-07-28
+last_modified_at: 2026-08-17
 faq:
   - question: "Gemini 会员现在只有 Google AI Pro 吗？"
-    answer: "不是。Google 当前帮助中心还列出 Google AI Plus 与 Google AI Ultra。不同地区可见套餐、价格和权益可能不同，应以 Google One 或 Gemini 实时订阅页面为准。"
+    answer: "不是。Google 当前公开比较页列出 Google AI Plus、Pro、Ultra 5x 和 Ultra 20x。不同地区可见套餐、价格和权益可能不同，应以 Google One 或 Gemini 实时订阅页面为准。"
   - question: "ChongGrok 的 Gemini 协助需要 Google 密码吗？"
     answer: "用户自有 Google 账号升级不需要提交密码、两步验证码或恢复码，具体资料由客服逐单确认。Google AI Pro 一年成品账号属于独立交付路径，交付方式与安全信息修改以主站实时页面和购买前说明为准。"
   - question: "已经扣款但 Gemini 权益没出现，可以再买一次吗？"
@@ -21,7 +21,7 @@ faq:
 
 ## 先说结论
 
-- Google 当前公开 Google AI Plus、Pro、Ultra 多档计划；不同地区显示可能不同。
+- Google 当前公开 Google AI Plus、Pro、Ultra 5x、Ultra 20x 四档计划；不同地区显示可能不同。
 - Gemini 的订阅管理通常会进入 Google One；通过 Google Play 购买时，原 Google Play 账号也必须核对。
 - 银行仍在处理付款、Google 已经提供收据，以及当前 Gemini 账号已经显示会员，是三个不同状态。
 - 已有成功扣款或待处理订单时，不要为了“刷新权益”重复购买。
@@ -30,7 +30,7 @@ faq:
 
 <div class="guide-grid">
   <section class="guide-card"><h3><a href="guides/gemini-own-account-upgrade/">自有账号升级与验收</a></h3><p>付款前确认账号、已有订阅和客服所需资料，完成后回 Google 官方页面验收。</p></section>
-  <section class="guide-card"><h3><a href="guides/google-ai-plans/">Google AI 套餐怎么选</a></h3><p>区分 Plus、Pro、Ultra，并解释套餐、模型与 AI credits 的边界。</p></section>
+  <section class="guide-card"><h3><a href="guides/google-ai-plans/">Google AI 套餐怎么选</a></h3><p>区分 Plus、Pro、Ultra 5x 与 Ultra 20x，并解释套餐、模型与 AI credits 的边界。</p></section>
   <section class="guide-card"><h3><a href="guides/gemini-payment-errors/">银行卡与付款失败</a></h3><p>检查付款资料、账单地址、Payments profile、身份验证和银行拒付。</p></section>
   <section class="guide-card"><h3><a href="guides/gemini-paid-but-not-active/">已付款但权益未生效</a></h3><p>区分银行仍在处理、已完成订单、Google One 状态和当前 Gemini 登录账号。</p></section>
   <section class="guide-card"><h3><a href="guides/gemini-renewal-failed/">续费失败或降级</a></h3><p>检查原账单入口、付款方式、订阅是否被取消和到期后的权益变化。</p></section>

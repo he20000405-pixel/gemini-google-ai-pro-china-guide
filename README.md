@@ -12,7 +12,7 @@
 
 | 你现在遇到的情况 | 从这里开始 | 完成后应确认 |
 | --- | --- | --- |
-| 不知道 Plus、Pro、Ultra 怎么选 | [套餐选择](https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/google-ai-plans/) | 账号内确实提供目标计划，而且现有免费版或低档计划不能满足需求 |
+| 不知道 Plus、Pro、Ultra 5x、Ultra 20x 怎么选 | [套餐选择](https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/google-ai-plans/) | 账号内确实提供目标计划，而且现有免费版或低档计划不能满足需求 |
 | 想升级自己的 Google 账号 | [自有账号升级](https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-own-account-upgrade/) | 当前账号、已有订阅、目标计划和所需资料均已核对 |
 | 付款页面报错或银行卡被拒 | [付款失败排查](https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-payment-errors/) | 已确定问题属于银行、Google Payments 还是 Google Play |
 | 已付款，但 Gemini 没有会员权益 | [已付款未生效排查](https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/guides/gemini-paid-but-not-active/) | 已找到原购买账号、原账单入口和订单最终状态 |

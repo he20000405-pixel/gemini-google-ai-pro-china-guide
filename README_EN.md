@@ -25,7 +25,7 @@ Do not buy again while a charge is complete or pending, or while an active subsc
 
 ## Current plan structure
 
-Google currently documents Google AI Plus, Google AI Pro and Google AI Ultra. Availability, storage, features, limits and prices vary by plan and region, so the live Google One or Gemini subscription screen is the source of truth.
+Google currently compares Google AI Plus, Google AI Pro, Google AI Ultra 5x and Google AI Ultra 20x. Availability, storage, features, limits and prices vary by plan and region, so the live Google One or Gemini subscription screen is the source of truth.
 
 ## Public service boundary
 
@@ -38,7 +38,7 @@ Google currently documents Google AI Plus, Google AI Pro and Google AI Ultra. Av
 ## Guide directory
 
 - [Own-account subscription and verification](../guides/gemini-own-account-upgrade/)
-- [Google AI Plus, Pro and Ultra selection](../guides/google-ai-plans/)
+- [Google AI Plus, Pro, Ultra 5x and Ultra 20x selection](../guides/google-ai-plans/)
 - [Card, billing address and payment errors](../guides/gemini-payment-errors/)
 - [Paid but entitlement is missing](../guides/gemini-paid-but-not-active/)
 - [Renewal failure or downgrade](../guides/gemini-renewal-failed/)

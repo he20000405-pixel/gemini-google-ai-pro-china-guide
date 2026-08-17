@@ -2,7 +2,7 @@
 title: "Gemini 订阅、付款与账号专题"
 description: "Gemini 自有账号升级、专属一年成品账号、Google AI 套餐、付款、权益和账号安全专题目录。"
 permalink: /guides/
-last_modified_at: 2026-08-05
+last_modified_at: 2026-08-17
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -26,7 +26,7 @@ breadcrumbs:
 
 <div class="catalog-list">
   <a class="catalog-item" href="{{ '/guides/gemini-own-account-upgrade/' | relative_url }}"><span class="catalog-number">01</span><span class="catalog-copy"><strong>用户自有账号升级与客服确认流程</strong><p>付款前核对账号、已有订阅和客服逐单确认的必要资料。</p><span class="catalog-meta">约 6 分钟 · 完成目标：确认账号符合升级条件</span></span><span class="intent-label">流程</span></a>
-  <a class="catalog-item" href="{{ '/guides/google-ai-plans/' | relative_url }}"><span class="catalog-number">02</span><span class="catalog-copy"><strong>Google AI Plus、Pro、Ultra 怎么选</strong><p>按真实使用场景理解套餐差异，并判断是否需要升级。</p><span class="catalog-meta">约 6 分钟 · 完成目标：找到当前地区可见且适合的计划</span></span><span class="intent-label">套餐</span></a>
+  <a class="catalog-item" href="{{ '/guides/google-ai-plans/' | relative_url }}"><span class="catalog-number">02</span><span class="catalog-copy"><strong>Google AI Plus、Pro、Ultra 5x / 20x 怎么选</strong><p>按真实使用场景理解四档计划差异，并判断是否需要升级。</p><span class="catalog-meta">约 6 分钟 · 完成目标：找到当前地区可见且适合的计划</span></span><span class="intent-label">套餐</span></a>
   <a class="catalog-item" href="{{ '/guides/gemini-payment-errors/' | relative_url }}"><span class="catalog-number">03</span><span class="catalog-copy"><strong>银行卡、账单地址和付款失败排查</strong><p>从 Payments profile、验证状态和发卡行逐步定位问题。</p><span class="catalog-meta">约 8 分钟 · 完成目标：找到拒付原因和正确责任方</span></span><span class="intent-label">付款</span></a>
   <a class="catalog-item" href="{{ '/guides/gemini-paid-but-not-active/' | relative_url }}"><span class="catalog-number">04</span><span class="catalog-copy"><strong>已付款但 Gemini 权益未生效</strong><p>区分银行状态、Google 收据、Google One 订阅和 Gemini 权益。</p><span class="catalog-meta">约 8 分钟 · 完成目标：确认权益应附着到哪个账号</span></span><span class="intent-label">高意向</span></a>
   <a class="catalog-item" href="{{ '/guides/gemini-renewal-failed/' | relative_url }}"><span class="catalog-number">05</span><span class="catalog-copy"><strong>续费失败或订阅降级</strong><p>回到原计费渠道检查付款方式、取消状态和到期时间。</p><span class="catalog-meta">约 7 分钟 · 完成目标：处理原订阅而不是建立重复订阅</span></span><span class="intent-label">续费</span></a>
