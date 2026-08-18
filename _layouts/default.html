@@ -75,7 +75,10 @@
     {% include header.html %}
     <main class="page-shell">
       {% include breadcrumbs.html %}
-      <article class="content">{{ content }}</article>
+      <article class="content">
+        {{ content }}
+        {% include faq.html %}
+      </article>
     </main>
     {% include footer.html %}
   </body>
