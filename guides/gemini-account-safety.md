@@ -1,8 +1,8 @@
 ---
 title: "Gemini 账号安全与订阅验收清单"
-description: "区分 Gemini 自有账号升级与专属一年成品账号，说明最小资料、脱敏截图、官方验收和售后证据。"
+description: "区分 Gemini 自有账号升级、专属成品账号与家庭组方案，说明最小资料、脱敏截图、官方验收和售后证据。"
 permalink: /guides/gemini-account-safety/
-last_modified_at: 2026-08-17
+last_modified_at: 2026-10-28
 breadcrumbs:
   - name: Gemini 指南
     url: /
@@ -12,16 +12,16 @@ breadcrumbs:
     url: /guides/gemini-account-safety/
 faq:
   - question: "Gemini 订阅协助需要 Google 密码吗？"
-    answer: "用户自有账号升级不需要提交 Google 密码、两步验证码或恢复码。Gemini 专属一年成品账号属于独立交付路径，应按购买前说明完成账号接收和安全信息修改。"
+    answer: "用户自有账号升级和家庭组入组不需要提交 Google 密码、两步验证码或恢复码。专属成品账号属于独立交付路径，应按购买前说明完成账号接收和安全信息修改。"
   - question: "订单截图可以直接公开吗？"
     answer: "不建议。应遮盖完整邮箱、订单号、银行卡信息、付款资料和其他可用于识别或访问账号的信息，仅保留解决问题所需字段。"
   - question: "完成付款后应该验收什么？"
-    answer: "在 Google 官方页面核对当前登录账号、计划名称、订阅状态和实际权益；同时保存订单与付款记录，不以第三方页面单独作为验收结果。"
+    answer: "在 Google 官方页面核对当前登录账号及实际权益。个人升级核对计划与订阅状态；成品账号另查交付和安全设置；家庭成员核对入组状态和共享权益，不要求独立个人账单。保存订单与付款记录，不以第三方页面单独作为验收结果。"
 ---
 
 # Gemini 账号资料安全与订阅验收清单
 
-<p class="lead">本页重点说明用户自有 Google 账号的最小资料原则，并补充 Gemini 专属一年成品账号的交付安全边界。两条路径都应在完成后回 Google 官方页面验收。</p>
+<p class="lead">本页说明用户自有 Google 账号的最小资料原则，并区分专属成品账号与家庭组的安全和验收边界。三条路径都应在完成后回 Google 官方页面核对实际权益。</p>
 
 ## 先确认是哪条路径
 
@@ -29,6 +29,7 @@ faq:
 | --- | --- | --- |
 | 用户自有账号升级 | 用户原有 Google 账号 | 不提交密码、两步验证码或恢复码，只提供当前问题所需的最小资料 |
 | Gemini 专属一年成品账号 | 按独立商品规则交付 | 下单前确认周期、交付方式、账号归属、可修改的安全信息和售后边界 |
+| 家庭组方案 | 用户原有 Google 账号加入符合条件的家庭组 | 先核对入组资格与共享范围，不提交密码或验证码；完成后核对入组状态与实际权益 |
 
 当前库存、周期和交付规则以[主站 Gemini 方案](https://chonggrok.com/gemini?utm_source=github_guides&utm_medium=referral&utm_campaign=gemini_account_safety)及购买前说明为准。
 
@@ -55,6 +56,10 @@ faq:
 5. 移除不认识的设备或应用访问，并保存订单与验收页面的脱敏截图。
 
 如果无法登录、无法完成必要安全设置，或实际计划与购买说明不一致，请停止继续使用并联系原售后。不要把收到的账号资料公开到评论、群聊或截图中。
+
+## 家庭组：确认入组资格与共享权益
+
+先核对现有家庭组、国家/地区和 Google 对家庭组变更的限制，再确认邀请对应自己的账号。加入后查看 Google One 的家庭共享状态与 Gemini 等工具的实际权益；Flow 与 Antigravity 的额度由组内共享，不是每人独享一份。家庭成员不一定有个人账单或续费日期，应按原订单另记服务周期和售后保障期。完整检查见[自有账号与家庭组路径说明](../gemini-own-account-upgrade/)。
 
 ## 永远不要提交
 
@@ -91,11 +96,11 @@ faq:
 
 1. 打开 Gemini，确认当前 Google 账号；
 2. 打开 Google One 或原购买入口，确认计划状态；
-3. 检查计划名称、结算周期和权益是否一致；
+3. 个人订阅检查计划名称、结算周期和权益；家庭成员检查入组状态与共享权益；
 4. 保存订单和付款记录；
 5. 若权益未出现，停止重复购买并进入[已付款但权益未生效排查](../gemini-paid-but-not-active/)。
 
-验收完成的标准不是“客服说处理好了”，而是当前账号能在 Google 官方页面看到正确计划，订单记录也能与该账号对应。
+验收完成的标准不是“客服说处理好了”，而是当前账号能在 Google 官方页面看到订单约定的计划或共享权益，订单记录也能与该账号对应。
 
 ## 联系谁
 
@@ -122,5 +127,6 @@ faq:
 - [Google：管理 Google AI 计划](https://support.google.com/gemini/answer/14517446)
 - [Google：完成账号安全检查](https://support.google.com/accounts/answer/12629482)
 - [Google：让 Google 账号更安全](https://support.google.com/accounts/answer/46526)
+- [Google One：家庭共享资格与权益](https://support.google.com/googleone/answer/9004015?hl=zh-Hans)
 
-**事实核验日期：2026 年 8 月 17 日。**Google 计划、账号安全入口和地区资格以 Google 实时页面为准；Gemini 专属一年成品账号的库存与交付规则以 ChongGrok 产品页和购买前说明为准。
+**通用安全资料核验日期：2026 年 8 月 17 日；家庭共享与服务路径更新：2026 年 10 月 28 日。**Google 计划、账号安全入口和地区资格以 Google 实时页面为准；具体服务周期、交付和售后规则以 ChongGrok 产品页和购买前说明为准。

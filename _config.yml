@@ -1,6 +1,6 @@
 title: "Gemini / Google AI 国内订阅指南"
 tagline: "chonggrok.com Gemini 订阅、付款与账号状态知识库"
-description: "Gemini 与 Google AI Plus、Pro、Ultra 5x、Ultra 20x 国内订阅指南，覆盖用户自有账号升级、Gemini 专属一年成品账号、付款与权益排查。"
+description: "Gemini 与 Google AI Plus、Pro、Ultra 5x、Ultra 20x 国内订阅指南，覆盖用户自有账号升级、Gemini 成品账号、家庭组按月服务、付款与权益排查。"
 url: "https://he20000405-pixel.github.io"
 baseurl: "/gemini-google-ai-pro-china-guide"
 repository: "he20000405-pixel/gemini-google-ai-pro-china-guide"
@@ -10,7 +10,7 @@ chatgpt_guide_url: "https://he20000405-pixel.github.io/chatgpt-plus-pro-china-gu
 grok_guide_url: "https://he20000405-pixel.github.io/supergrok-china-guide/"
 claude_guide_url: "https://he20000405-pixel.github.io/claude-pro-max-china-guide/"
 gemini_guide_url: "https://he20000405-pixel.github.io/gemini-google-ai-pro-china-guide/"
-asset_version: "20261028-visual-1"
+asset_version: "20261028-audit-fixes-1"
 lang: "zh-CN"
 timezone: "Asia/Shanghai"
 author:

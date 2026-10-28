@@ -1,15 +1,15 @@
 ---
 title: "Gemini Plans, Billing and Account Guide"
-description: "Independent guide to Google AI plans, own-account upgrades, Gemini ready-made account options, payment errors, missing entitlements and billing."
+description: "Independent guide to Google AI plans, own-account upgrades, Gemini ready-made accounts, family sharing, payment errors, missing entitlements and billing."
 permalink: /en/
 robots: "index, follow"
 lang: en
-last_modified_at: 2026-08-05
+last_modified_at: 2026-10-28
 ---
 
 # Gemini and Google AI Membership Guide
 
-This independent knowledge base explains Google AI plan selection, account ownership, billing channels, payment failures, missing entitlements, renewals and evidence collection. It separates own-account upgrades from the Gemini-specific one-year ready-made account option.
+This independent knowledge base explains Google AI plan selection, account ownership, billing channels, payment failures, missing entitlements, renewals and evidence collection. It distinguishes own-account upgrades, the Gemini-specific one-year ready-made account option and monthly family sharing.
 
 ## Start with the symptom you can verify
 
@@ -32,8 +32,12 @@ Google currently compares Google AI Plus, Google AI Pro, Google AI Ultra 5x and 
 - Own-account upgrade requirements are confirmed case by case; no fixed credential is claimed.
 - Passwords, two-step verification codes and recovery codes are not requested for an own-account upgrade.
 - A one-year Google AI Pro ready-made account is a separate Gemini-only delivery option. Its availability, handover process and security steps follow the live product page and pre-purchase terms.
+- Family sharing uses your own Google account to join an eligible group. Check existing family membership, joining eligibility and shared limits before paying; it is not an independent personal subscription. Flow and Antigravity usage limits are shared across the family group.
+- Subscription duration and the merchant’s support period are separate terms. Confirm both in the current order.
 - No API credits, SMS verification or bulk registration are offered.
 - ChongGrok is not affiliated with or officially partnered with Google.
+
+See [Google One’s family-sharing rules](https://support.google.com/googleone/answer/9004015?hl=en) for current eligibility and shared benefits.
 
 ## Guide directory
 
@@ -53,7 +57,7 @@ Google currently compares Google AI Plus, Google AI Pro, Google AI Ultra 5x and 
 
 ## Completion checklist
 
-- The current Gemini account matches the purchasing account.
-- The original billing channel shows a clear final order state.
-- The Google One plan name and renewal date are visible when a plan is active.
+- For a personal subscription, the current Gemini account matches the subscribed account, and the original billing channel shows the order, plan and renewal or expiry date.
+- For family sharing, confirm the invited account, active group membership and available shared benefits; members do not need to hold an independent personal billing record.
+- For a delivered account, complete the stated handover and security changes, then verify the plan and expiry.
 - Passwords, verification codes, recovery codes and complete payment data were not shared.
