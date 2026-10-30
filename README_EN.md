@@ -4,7 +4,7 @@ description: "Independent guide to Google AI plans, own-account upgrades, Gemini
 permalink: /en/
 robots: "index, follow"
 lang: en
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 ---
 
 # Gemini and Google AI Membership Guide
@@ -49,7 +49,7 @@ See [Google One’s family-sharing rules](https://support.google.com/googleone/a
 - [Google One, web and Google Play billing channels](../guides/gemini-billing-channel/)
 - [Account safety and support evidence](../guides/gemini-account-safety/)
 
-[Open the unified ChongGrok knowledge hub](https://he20000405-pixel.github.io/)
+[Open the unified ChongGrok knowledge hub](https://he20000405-pixel.github.io/en/)
 
 [Open the bilingual AI membership safety checklist](https://he20000405-pixel.github.io/en/resources/ai-membership-safety-checklist/)
 
