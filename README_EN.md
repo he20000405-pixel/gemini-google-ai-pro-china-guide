@@ -4,7 +4,7 @@ description: "Independent guide to Google AI plans, own-account upgrades, Gemini
 permalink: /en/
 robots: "index, follow"
 lang: en
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Gemini and Google AI Membership Guide
@@ -15,11 +15,11 @@ This independent knowledge base explains Google AI plan selection, account owner
 
 | What you see | Start here | Stop when |
 | --- | --- | --- |
-| You do not know which plan fits | [Plan selection](../guides/google-ai-plans/) | The target plan is available to the current account and solves a real limit |
-| You want to upgrade your own Google account | [Own-account upgrade](../guides/gemini-own-account-upgrade/) | The account, existing subscription, target plan and required data are confirmed |
-| The payment page reports an error | [Payment errors](../guides/gemini-payment-errors/) | You know whether the bank, Google Payments or Google Play owns the problem |
-| A receipt exists but Gemini has no paid access | [Paid but not active](../guides/gemini-paid-but-not-active/) | The original purchasing account, billing channel and final order state are known |
-| Renewal failed or the plan ended | [Renewal failure](../guides/gemini-renewal-failed/) | You have distinguished a failed payment, cancellation, expiry or wrong account |
+| You do not know which plan fits | [Plan selection (Chinese)](../guides/google-ai-plans/) | The target plan is available to the current account and solves a real limit |
+| You want to upgrade your own Google account | [Own-account upgrade (Chinese)](../guides/gemini-own-account-upgrade/) | The account, existing subscription, target plan and required data are confirmed |
+| The payment page reports an error | [Payment errors (Chinese)](../guides/gemini-payment-errors/) | You know whether the bank, Google Payments or Google Play owns the problem |
+| A receipt exists but Gemini has no paid access | [Paid but not active (Chinese)](../guides/gemini-paid-but-not-active/) | The original purchasing account, billing channel and final order state are known |
+| Renewal failed or the plan ended | [Renewal failure (Chinese)](../guides/gemini-renewal-failed/) | You have distinguished a failed payment, cancellation, expiry or wrong account |
 
 Do not buy again while a charge is complete or pending, or while an active subscription still exists.
 
@@ -41,13 +41,13 @@ See [Google One’s family-sharing rules](https://support.google.com/googleone/a
 
 ## Guide directory
 
-- [Own-account subscription and verification](../guides/gemini-own-account-upgrade/)
-- [Google AI Plus, Pro, Ultra 5x and Ultra 20x selection](../guides/google-ai-plans/)
-- [Card, billing address and payment errors](../guides/gemini-payment-errors/)
-- [Paid but entitlement is missing](../guides/gemini-paid-but-not-active/)
-- [Renewal failure or downgrade](../guides/gemini-renewal-failed/)
-- [Google One, web and Google Play billing channels](../guides/gemini-billing-channel/)
-- [Account safety and support evidence](../guides/gemini-account-safety/)
+- [Own-account subscription and verification (Chinese)](../guides/gemini-own-account-upgrade/)
+- [Google AI Plus, Pro, Ultra 5x and Ultra 20x selection (Chinese)](../guides/google-ai-plans/)
+- [Card, billing address and payment errors (Chinese)](../guides/gemini-payment-errors/)
+- [Paid but entitlement is missing (Chinese)](../guides/gemini-paid-but-not-active/)
+- [Renewal failure or downgrade (Chinese)](../guides/gemini-renewal-failed/)
+- [Google One, web and Google Play billing channels (Chinese)](../guides/gemini-billing-channel/)
+- [Account safety and support evidence (Chinese)](../guides/gemini-account-safety/)
 
 [Open the unified ChongGrok knowledge hub](https://he20000405-pixel.github.io/en/)
 
